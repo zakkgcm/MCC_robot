@@ -1,0 +1,6 @@
+{
+  "name": "MCC robot",
+  "tagline": "Files concerning mesa community college's robot project.",
+  "body": "### Welcome to MCC Robots project page.\r\nThis site will serve as a gateway to relevant files for the MCC Robot.\r\n\r\n### Goals\r\n* TBD\r\n\r\n#### Just show me the files\r\nGo to the github: [MCC Robot github](https://github.com/cluesang/MCC_robot)\r\n\r\n#### What files are we talking about?\r\n* Design files and schematics.\r\n* Arduino sketch files (cpp) to have the robot do things.\r\n* Arduino libraries for the stepper motors.\r\n* How-to & links for using the Arduino IDE.\r\n* A README on the project that will contain additional info on the robot project.\r\n\r\n### I wanna download the files.\r\nOkay. Sounds good. Just navigate to the github page and click 'clone or download'.\r\n\r\n### I wanna modify the files.\r\nOkay. Let's say you made some good changes. Just fork the repo on the github page. Then make your changes and submit a pull request. Then the pull request will be merged with the main repo. \r\n\r\n### Is using github necessary to contribute?\r\nNo. This is just an easy way to keep track of changes and manage files. Plus, some exposure to github and git is not a bad thing. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
