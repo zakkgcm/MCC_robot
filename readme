@@ -1,2 +1,0 @@
-put the Adafruit_PWMServoDriver folder in libraries into your Arduino/libraries folder 
-the HT_PC!9865 library might actually be the correct one to use with the board/servos we have?
